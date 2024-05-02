@@ -1,0 +1,14 @@
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.AssemblyInfoInputs.cache
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.AssemblyInfo.cs
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.csproj.CoreCompileInputs.cache
+/Users/yash/Desktop/cSharpDViz/bin/Debug/net8.0/cSharpDViz
+/Users/yash/Desktop/cSharpDViz/bin/Debug/net8.0/cSharpDViz.deps.json
+/Users/yash/Desktop/cSharpDViz/bin/Debug/net8.0/cSharpDViz.runtimeconfig.json
+/Users/yash/Desktop/cSharpDViz/bin/Debug/net8.0/cSharpDViz.dll
+/Users/yash/Desktop/cSharpDViz/bin/Debug/net8.0/cSharpDViz.pdb
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.dll
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/refint/cSharpDViz.dll
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.pdb
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.genruntimeconfig.cache
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/ref/cSharpDViz.dll
