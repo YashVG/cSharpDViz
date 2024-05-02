@@ -12,3 +12,4 @@
 /Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.pdb
 /Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.genruntimeconfig.cache
 /Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/ref/cSharpDViz.dll
+/Users/yash/Desktop/cSharpDViz/obj/Debug/net8.0/cSharpDViz.sourcelink.json
