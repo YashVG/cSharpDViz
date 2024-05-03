@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
 internal class Program
 {
     private static void Main(string[] args)
@@ -46,8 +45,20 @@ internal class Program
         input = Console.ReadLine();
         if (input.Equals("a"))
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("This text is green!");
+
+            Console.Write("Enter a number: ");
+            input = Console.ReadLine();
+            int target = 0;
+            try
+            {
+                target = int.Parse(input);  // Convert string to int
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Invalid input! Please enter a valid number.");
+            }
+            LinearSearch search = new LinearSearch(target, numbers);
+            search.PerformSearch();
         }
         else
         {

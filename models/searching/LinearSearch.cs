@@ -27,6 +27,18 @@ class LinearSearch
     public void PerformSearch()
     {
         Console.Clear();
-
+        foreach (var item in _lst)
+        {
+            Console.ResetColor();
+            if (item == _target)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+            }
+            Console.Write(item + " ");
+        }
     }
 }
