@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cSharpDViz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a979869f751ca5c4596a584fb5502dc5387f1c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe0e38a735451335a56e62bf07829af7ae69a73")]
 [assembly: System.Reflection.AssemblyProductAttribute("cSharpDViz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cSharpDViz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
